@@ -1,0 +1,22 @@
+# Mac system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (if large)
+*.csv
+*.xlsx
+# Remove the lines above if you want to track your datasets
+
+# IDE
+.vscode/
+.idea/
